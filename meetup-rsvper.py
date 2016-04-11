@@ -67,9 +67,9 @@ import json
 #### Start Configuration - Make sure this section is complete
 
 # Get your API_KEY here: http://www.meetup.com/meetup_api/key/
-API_KEY = ''
+API_KEY = '4681f4c13207a1c3b6a7c48297b2142'
 # Get your MEMBER_ID here: http://www.meetup.com/account/
-MEMBER_ID = '' 
+MEMBER_ID = '173785872' 
 
 #### End Configuration
 
